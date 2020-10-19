@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603094443 source:/home/ahmedessam/Ahmed Essam Projects/xo oop/xo/game.cpp
+	"game.h"
+
+1603094590 /home/ahmedessam/Ahmed Essam Projects/xo oop/xo/game.h
+	<iostream>
+
